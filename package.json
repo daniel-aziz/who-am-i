@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/daniel-aziz/who-am-i/issues"
   },
-  "homepage": "https://github.com/daniel-aziz/who-am-i#readme"
+  "homepage": "https://github.com/daniel-aziz/who-am-i#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
